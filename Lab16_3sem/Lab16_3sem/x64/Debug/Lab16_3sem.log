@@ -1,0 +1,7 @@
+﻿  Lab16_3sem.cpp
+C:\Users\shverd\source\repos\3sem\Lab16_3sem\Lab16_3sem\Complex.h(21,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\shverd\source\repos\3sem\Lab16_3sem\Lab16_3sem\Complex.h(22,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\shverd\source\repos\3sem\Lab16_3sem\Lab16_3sem\Complex.h(32,13): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\shverd\source\repos\3sem\Lab16_3sem\Lab16_3sem\Complex.h(56,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\shverd\source\repos\3sem\Lab16_3sem\Lab16_3sem\Complex.h(70,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab16_3sem.vcxproj -> C:\Users\shverd\source\repos\3sem\Lab16_3sem\x64\Debug\Lab16_3sem.exe
